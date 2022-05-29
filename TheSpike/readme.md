@@ -1,5 +1,7 @@
 This folder contains the presentation for the summary of book "The Spike: An Epic Journey Through the Brain in 2.1 Seconds" by Mark Humphries. 
 
+Presented during my internship at AI Institute, University of South Carolina, Columbia, SC.
+
 Book Link:  https://press.princeton.edu/books/hardcover/9780691195889/the-spike
 
 Mark Humphries is a computational neurologist. 
