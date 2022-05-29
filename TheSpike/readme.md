@@ -1,4 +1,4 @@
-This folder contains the presentation for the summary of book The Spike by Mark Humphries. 
+This folder contains the presentation for the summary of book "The Spike: An Epic Journey Through the Brain in 2.1 Seconds" by Mark Humphries. 
 
 Book Link:  https://press.princeton.edu/books/hardcover/9780691195889/the-spike
 
@@ -8,3 +8,5 @@ The book is about the neurological code that our brain employs to achieve what i
 
 The book is densely packed with information, and I acquired a lot of new facts and concepts about the brain.
 I strongly advise everyone interested in neuroscience to read this book.
+
+![alt text]([https://github.com/Deepa-Tilwani/MyTalks/blob/0501de92aa7ad30dfa914234d60e9cb2acc72e89/TheSpike/TheSpike.jpg])
