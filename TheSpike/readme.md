@@ -13,4 +13,4 @@ I strongly advise everyone interested in neuroscience to read this book.
 
 video: https://youtu.be/QCuwQqCEE58
 
-[![Watch the video](https://github.com/Deepa-Tilwani/MyTalks/blob/0501de92aa7ad30dfa914234d60e9cb2acc72e89/TheSpike/TheSpike.jpg)]https://youtu.be/QCuwQqCEE58)
+![alt text](https://github.com/Deepa-Tilwani/MyTalks/blob/0501de92aa7ad30dfa914234d60e9cb2acc72e89/TheSpike/TheSpike.jpg)
