@@ -7,6 +7,6 @@
  (2) modularizing the implementation of GNN designs. We conduct extensive experiments on datasets across cohorts and modalities and
  recommend a set of general recipes for effective GNN designs on brain networks. To support open and reproducible research on 
  GNN-based brain network analysis, we host the BrainGB website at 
- {\field{\*\fldinst{HYPERLINK "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDdMUUZWMmoyWUVQbVRESHdQYUc1Y0VjMndid3xBQ3Jtc0tteHJ0VkNYRV94MHQ1cTl0azBzVUx5SHI5VWpDaHhiX3Y1T2k5eWpubTBpUmhGbkRpSmZvdWs5b3JEWUZya0V0eV9uTXpLQ2NySHVXNFU4M1VHWnR0N0pyT3FKQzBCUHRMdWdncG1zSEFkSVY4UmlJTQ&q=https%3A%2F%2Fbraingb.us%2F&v=7jUZjXdduoY"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 https://braingb.us}} with models, tutorials, examples, as well as an out-of-box Python package. 
+ {\field{\*\fldinst{HYPERLINK "https://www.youtube.com/watch?v=7jUZjXdduoY"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 https://braingb.us}} with models, tutorials, examples, as well as an out-of-box Python package. 
  We hope that this work will provide useful empirical evidence and offer insights for future research in this novel and promising direction. 
- Link : {\field{\*\fldinst{HYPERLINK "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnJuMkVTZW5CODVpTjFtOVByaW84N2pRMDNuUXxBQ3Jtc0tucmhoU0dPX1FXR1U2UnVfUkpQVFc0d0xXQTVWSEU5X054endLLWpMc0JhX21NdlhWMUo3NXFqbjNSbV9LRC1lYnRtSGVWLUhMZXJJT3pfaG9qb3BMUjl1OUVnajBJNzBJbkdod2xsX0RqbWZETXIwaw&q=https%3A%2F%2Farxiv.org%2Fpdf%2F2204.07054.pdf&v=7jUZjXdduoY"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 https://arxiv.org/pdf/2204.07054.pdf}}}
+ Link : {\field{\*\fldinst{HYPERLINK " https://arxiv.org/pdf/2204.07054.pdf}}}
