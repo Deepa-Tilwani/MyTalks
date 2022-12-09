@@ -6,7 +6,7 @@
  (1) summarizing brain network construction pipelines for both functional and structural neuroimaging modalities and 
  (2) modularizing the implementation of GNN designs. We conduct extensive experiments on datasets across cohorts and modalities and
  recommend a set of general recipes for effective GNN designs on brain networks. To support open and reproducible research on 
- GNN-based brain network analysis, we host the BrainGB website at 
- "https://www.youtube.com/watch?v=7jUZjXdduoY"}{\fldrslt \cf3 \ul \ulc3 \strokec3 https://braingb.us}} with models, tutorials, examples, as well as an out-of-box Python package. 
- We hope that this work will provide useful empirical evidence and offer insights for future research in this novel and promising direction. 
- Link : {\field{\*\fldinst{HYPERLINK " https://arxiv.org/pdf/2204.07054.pdf}}}
+ GNN-based brain network analysis, we host the BrainGB website at https://braingb.us with models, tutorials, examples, as well as an out-of-box Python package. 
+We hope that this work will provide useful empirical evidence and offer insights for future research in this novel and promising direction. 
+ Link to paper : https://arxiv.org/pdf/2204.07054.pdf
+Link to my talk : https://www.youtube.com/watch?v=7jUZjXdduoY
